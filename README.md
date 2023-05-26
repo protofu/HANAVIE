@@ -78,22 +78,23 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 # 초기 구상
 
 ### 기본 틀
+![Untitled (6)](https://github.com/protofu/HANAVIE/assets/118592515/e286e4cc-e02c-44d9-86a4-f6c3d05a3da5)
 
-![Untitled (5)](C:\Users\sungj\Downloads\Untitled (5).png)
 
 - 왼쪽과 윗쪽에 네브바를 배치하고 최소한의 버튼만을 장착
 
 ### 메인페이지
+![Untitled (7)](https://github.com/protofu/HANAVIE/assets/118592515/2a38bd20-f33b-4995-9bb7-2ea707e99214)
 
-![Untitled (6)](C:\Users\sungj\Downloads\Untitled (6).png)
 
 - 메인 페이지의 가장 큰 화면으로 캐러샐 형식의 영화와 줄거리가 적힌 장면들이 넘어감
 - 아래로는 추천하는 영화들의 포스터를 게시, 여러가지 예정
 - 포스터 클릭시 디테일 페이지로 이동
 
 ### 디테일 페이지
+![Untitled (8)](https://github.com/protofu/HANAVIE/assets/118592515/9f0fda79-fd35-4567-8f3a-93f8613edd88)
 
-![Untitled (7)](C:\Users\sungj\Downloads\Untitled (7).png)
+
 
 - 영화의 디테일 페이지, 제목 줄거리가 주된 내용
 - 유저에 따라 좋아요 리뷰기능도 탑재 예정
@@ -102,7 +103,8 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 
 ### 검색 페이지
 
-![Untitled (8)](C:\Users\sungj\Downloads\Untitled (8).png)
+![Untitled (9)](https://github.com/protofu/HANAVIE/assets/118592515/850bf749-1a77-4f6f-ac43-9c6307b512fa)
+
 
 - 검색기능 추가
 - 아래쪽으로는 랜덤한 영화 포스터를 나열
@@ -112,9 +114,10 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 
 ### 커뮤니티 페이지
 
-![Untitled (9)](C:\Users\sungj\Downloads\Untitled (9).png)
+![Untitled (10)](https://github.com/protofu/HANAVIE/assets/118592515/7c73ba41-4863-480a-9d0a-7e4dc72cde3e)
 
-![Untitled (10)](C:\Users\sungj\Downloads\Untitled (10).png)
+![Untitled (11)](https://github.com/protofu/HANAVIE/assets/118592515/c14428f1-620d-486c-936e-9bcd905c85c2)
+
 
 - 커뮤니티 게시판 기능, 간단한 글 및 댓글 기능 가능
 - 작성 시 제목, 작성자, 날짜가 페이지에 게시됨
@@ -122,6 +125,7 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 - 게시글 디테일에서 아이디 클릭시 그사람의 프로필로 이동
 
 ### 프로필 페이지
+![Untitled (11)](https://github.com/protofu/HANAVIE/assets/118592515/2d26aca3-fa4f-4365-9587-7eeea402a803)
 
 
 
@@ -132,7 +136,8 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 
 ### 로그인 페이지
 
-![Untitled (11)](C:\Users\sungj\Downloads\Untitled (11).png)
+![Untitled (12)](https://github.com/protofu/HANAVIE/assets/118592515/9050a005-acd4-49cb-adb5-73e22b070766)
+
 
 - 단순한 로그인 페이지
 - 로그인 창에는 회원가입 권유 버튼이 있고
@@ -141,7 +146,7 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 
 ### OTT 사이트 영화 순위 페이지
 
-![Untitled (12)](C:\Users\sungj\Downloads\Untitled (12).png)
+
 
 - OTT사이트의 순위를 보여주는 페이지
 - 파란색 버튼들은 각각의 OTT 사이트 명이 적혀있다.
