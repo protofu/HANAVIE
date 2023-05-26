@@ -4,15 +4,21 @@
 
 HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성어로 영화를 모두 한 곳으로 모으겠다는 취지에서 만들어진 이름 입니다.
 
+
+
 # 프로젝트 개요
 
 이 프로젝트는 영화 추천 사이트를 제작하는 것입니다. 이 웹사이트는 REST API를 통해 영화 데이터를 가져와 적절한 알고리즘을 사용하여 사용자에게 보여주며, 또한 OTT 사이트의 인기 순위도 가져와 보다 실용적인 사용 목적을 달성하기 위해 제작됩니다.
+
+
 
 # 프로젝트 요구사항
 
 이 웹사이트는 아래의 필수 요구사항과 팀에서 채택한 선택사항을 충족해야 합니다. 그 중에서도 가장 중요한 요구사항은 **OTT 사이트의 인기순위를 가져와 렌더링**하는 것입니다. 이 점에서 다른 프로젝트와 차별화될 예정입니다.
 
-### 필수 요구사항
+
+
+### 필수 사항
 
 - [ ]  영화 데이터
 - [ ]  영화 추천 알고리즘
@@ -21,7 +27,7 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 - [ ]  README
 - [ ]  기타
 
-### **선택 사항**
+### **목표 구현 사항**
 
 - [ ]  OTT 사이트 인기순위 가져와서 렌더링
 - [ ]  애니메이션 효과를 이용한 재미
@@ -65,22 +71,17 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 ![Untitled (3)](https://github.com/protofu/HANAVIE/assets/118592515/0b22eb72-fc6b-4b7a-96e1-0ad63a241971)
 
 
-# logo
+# 초기 logo
 ![Untitled (4)](https://github.com/protofu/HANAVIE/assets/118592515/f8332cd2-b543-497c-9d76-86828c4643b1)
 
-![Untitled (5)](https://github.com/protofu/HANAVIE/assets/118592515/4422a896-d3f1-40a1-b024-03d252d71f4b)
 
 # 초기 구상
 
 ### 기본 틀
-![Untitled (6)](https://github.com/protofu/HANAVIE/assets/118592515/e286e4cc-e02c-44d9-86a4-f6c3d05a3da5)
-
-
 - 왼쪽과 윗쪽에 네브바를 배치하고 최소한의 버튼만을 장착
 
 ### 메인페이지
 ![Untitled (7)](https://github.com/protofu/HANAVIE/assets/118592515/2a38bd20-f33b-4995-9bb7-2ea707e99214)
-
 
 - 메인 페이지의 가장 큰 화면으로 캐러샐 형식의 영화와 줄거리가 적힌 장면들이 넘어감
 - 아래로는 추천하는 영화들의 포스터를 게시, 여러가지 예정
@@ -88,8 +89,6 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 
 ### 디테일 페이지
 ![Untitled (8)](https://github.com/protofu/HANAVIE/assets/118592515/9f0fda79-fd35-4567-8f3a-93f8613edd88)
-
-
 
 - 영화의 디테일 페이지, 제목 줄거리가 주된 내용
 - 유저에 따라 좋아요 리뷰기능도 탑재 예정
@@ -99,7 +98,6 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 ### 검색 페이지
 
 ![Untitled (9)](https://github.com/protofu/HANAVIE/assets/118592515/850bf749-1a77-4f6f-ac43-9c6307b512fa)
-
 
 - 검색기능 추가
 - 아래쪽으로는 랜덤한 영화 포스터를 나열
@@ -113,16 +111,12 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 
 ![Untitled (11)](https://github.com/protofu/HANAVIE/assets/118592515/c14428f1-620d-486c-936e-9bcd905c85c2)
 
-
 - 커뮤니티 게시판 기능, 간단한 글 및 댓글 기능 가능
 - 작성 시 제목, 작성자, 날짜가 페이지에 게시됨
 - 글 클릭시 게시글 디테일로 이동
 - 게시글 디테일에서 아이디 클릭시 그사람의 프로필로 이동
 
 ### 프로필 페이지
-![Untitled (11)](https://github.com/protofu/HANAVIE/assets/118592515/2d26aca3-fa4f-4365-9587-7eeea402a803)
-
-
 
 - 프로필 페이지는 2가지로 나뉨. 자신의 프로필, 다른사람의 프로필
 - 자신의 프로필은 프로필사진, 팔로우, 팔로잉, 좋아요, 좋아요한 영화, 리뷰한 영화가 나타날 예정
@@ -130,9 +124,6 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 - 팔로우 혹은 팔로잉을 누를 시 팔로우 중인 목록이 뜸
 
 ### 로그인 페이지
-
-![Untitled (12)](https://github.com/protofu/HANAVIE/assets/118592515/9050a005-acd4-49cb-adb5-73e22b070766)
-
 
 - 단순한 로그인 페이지
 - 로그인 창에는 회원가입 권유 버튼이 있고
@@ -228,8 +219,36 @@ my_movies = []
 ![logo](https://github.com/protofu/HANAVIE/assets/118592515/9ebf1936-d517-4df8-ba95-912aaeabe9e7)
 
 # 최종 진행 과정
+![Image Pasted at 2023-5-26 09-50](https://github.com/protofu/HANAVIE/assets/118592515/def30f08-c04a-434e-b4a2-3f8ac153f260)
 
-![image](https://github.com/protofu/HANAVIE/assets/118592515/f93d794b-0d9a-45c7-b316-beabb4a077d5)
+# 최종 사이트
+ - 메인페이지
+![image](https://github.com/protofu/HANAVIE/assets/118592515/cdee6a86-f285-4947-ba86-3ad7fd856336)
+![image](https://github.com/protofu/HANAVIE/assets/118592515/ab20fdc6-f93e-48d1-9d55-38f467e7eaa1)
+
+- 알고리즘에 의한 추천
+![image](https://github.com/protofu/HANAVIE/assets/118592515/64026c43-6c7f-4012-b77a-3caa48088b65)
+
+- 디테일 페이지
+![image](https://github.com/protofu/HANAVIE/assets/118592515/1902aa39-2eec-4aa3-9917-05435c102646)
+![image](https://github.com/protofu/HANAVIE/assets/118592515/cfa8600d-f644-4e46-b6ec-67a438add360)
+
+- 검색
+![image](https://github.com/protofu/HANAVIE/assets/118592515/11d93e0a-581a-4f07-8d73-e2bbc66e1aea)
+
+- 프로필
+![image](https://github.com/protofu/HANAVIE/assets/118592515/be17bd74-e4b6-4b98-aba3-a4dceb7c6733)
+
+- 상영중인 영화 페이지
+![image](https://github.com/protofu/HANAVIE/assets/118592515/bf4492ed-5741-440c-979e-fbb3ace5ab95)
+
+- 상영 예정
+![image](https://github.com/protofu/HANAVIE/assets/118592515/df0d394c-5b98-4c40-9805-5f6c41e3d577)
+
+- ott
+![image](https://github.com/protofu/HANAVIE/assets/118592515/95d39fc0-0e36-480c-9b3f-6f90411c46ad)
 
 
+# 후기 및 느낀점
+![image](https://github.com/protofu/HANAVIE/assets/118592515/fbfce6fb-3763-4770-b341-e28621616c93)
 
