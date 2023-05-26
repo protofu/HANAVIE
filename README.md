@@ -66,13 +66,14 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 
 # ERD 와이어 프레임
 ![Untitled (1)](https://github.com/protofu/HANAVIE/assets/118592515/c717d0e2-c076-4885-8797-aef43c749148)
+![Untitled (2)](https://github.com/protofu/HANAVIE/assets/118592515/0767f938-0bce-4874-b239-8ff08ca80a26)
+![Untitled (3)](https://github.com/protofu/HANAVIE/assets/118592515/0b22eb72-fc6b-4b7a-96e1-0ad63a241971)
 
 
 # logo
+![Untitled (4)](https://github.com/protofu/HANAVIE/assets/118592515/f8332cd2-b543-497c-9d76-86828c4643b1)
 
-![Untitled (4)](C:\Users\SSAFY\Downloads\Untitled (4).png)
-
-![Untitled (5)](C:\Users\SSAFY\Downloads\Untitled (5).png)
+![Untitled (5)](https://github.com/protofu/HANAVIE/assets/118592515/4422a896-d3f1-40a1-b024-03d252d71f4b)
 
 # 초기 구상
 
