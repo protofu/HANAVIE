@@ -146,6 +146,7 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 
 ### OTT 사이트 영화 순위 페이지
 
+![Untitled (14)](https://github.com/protofu/HANAVIE/assets/118592515/baeb4df9-b12e-442d-8488-ef6684d06350)
 
 
 - OTT사이트의 순위를 보여주는 페이지
@@ -229,5 +230,7 @@ my_movies = []
 
 
 # 최종로고
+![logo](https://github.com/protofu/HANAVIE/assets/118592515/9ebf1936-d517-4df8-ba95-912aaeabe9e7)
 
-![logo](C:\Users\sungj\OneDrive\바탕 화면\final\finalfinal\final-pjt-front\src\assets\logo.png)
+
+
