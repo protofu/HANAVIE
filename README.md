@@ -58,11 +58,9 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
 # 팀 구성 및 업무 분담 내역
 
 - 서정희
-  - Database 설계 및 데이터 소스 구축
-  - Ott 크롤링 기능 구현
-  - 
+![image](https://github.com/protofu/HANAVIE/assets/118592515/774ddff2-51ef-4185-8bba-c01c70b517c8)
 - 성제현
-  - Database 설계 및 데이터 소스 구축
+ ![image](https://github.com/protofu/HANAVIE/assets/118592515/33f33698-51cc-47e7-9dc6-d2819ecf3cee)
 
 # ERD 와이어 프레임
 ![Untitled (1)](https://github.com/protofu/HANAVIE/assets/118592515/c717d0e2-c076-4885-8797-aef43c749148)
@@ -231,6 +229,10 @@ my_movies = []
 
 # 최종로고
 ![logo](https://github.com/protofu/HANAVIE/assets/118592515/9ebf1936-d517-4df8-ba95-912aaeabe9e7)
+
+# 최종 진행 과정
+
+![image](https://github.com/protofu/HANAVIE/assets/118592515/2ae20dcf-270d-4f86-b195-64ea9e5514bb)
 
 
 
