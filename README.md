@@ -65,12 +65,8 @@ HANAVIE 는 한글로 ‘하나’ 와 영화를 뜻하는 ‘MOVIE’의 합성
   - Database 설계 및 데이터 소스 구축
 
 # ERD 와이어 프레임
+![Untitled (1)](https://github.com/protofu/HANAVIE/assets/118592515/c717d0e2-c076-4885-8797-aef43c749148)
 
-![Untitled (1)](C:\Users\SSAFY\Downloads\Untitled (1).png)
-
-![Untitled (2)](C:\Users\SSAFY\Downloads\Untitled (2).png)
-
-![Untitled (3)](C:\Users\SSAFY\Downloads\Untitled (3).png)
 
 # logo
 
