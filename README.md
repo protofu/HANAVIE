@@ -222,31 +222,47 @@ my_movies = []
 ![Image Pasted at 2023-5-26 09-50](https://github.com/protofu/HANAVIE/assets/118592515/def30f08-c04a-434e-b4a2-3f8ac153f260)
 
 # 최종 사이트
+
  - 메인페이지
+ - 
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/cdee6a86-f285-4947-ba86-3ad7fd856336)
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/ab20fdc6-f93e-48d1-9d55-38f467e7eaa1)
 
+
 - 알고리즘에 의한 추천
+- 
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/64026c43-6c7f-4012-b77a-3caa48088b65)
 
+
 - 디테일 페이지
+- 
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/1902aa39-2eec-4aa3-9917-05435c102646)
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/cfa8600d-f644-4e46-b6ec-67a438add360)
 
+
 - 검색
+
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/11d93e0a-581a-4f07-8d73-e2bbc66e1aea)
 
+
 - 프로필
+
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/be17bd74-e4b6-4b98-aba3-a4dceb7c6733)
 
 - 상영중인 영화 페이지
+
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/bf4492ed-5741-440c-979e-fbb3ace5ab95)
 
+
 - 상영 예정
+- 
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/df0d394c-5b98-4c40-9805-5f6c41e3d577)
 
+
 - ott
+- 
 ![image](https://github.com/protofu/HANAVIE/assets/118592515/95d39fc0-0e36-480c-9b3f-6f90411c46ad)
+
 
 
 # 후기 및 느낀점
